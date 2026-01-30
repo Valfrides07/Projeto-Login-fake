@@ -1,5 +1,5 @@
 /* importa o css que contem temas globais */
-@import url("Css/temas.css");
+@import url("/Css/temas.css");
 
 html,
 body {
